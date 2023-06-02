@@ -13,6 +13,14 @@ h1 {
     color: var(--cor-clara);
 }
 
+.botao {
+    padding: 0.5em;
+    background-color: var(--cor-escura);
+    color: white;
+    font: normal 1em Arial;
+    border-radius: 1em;
+}
+
 section {
     background-color: var(--cor-clara);
     border-radius: 1em;
