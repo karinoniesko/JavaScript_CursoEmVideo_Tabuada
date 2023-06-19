@@ -1,5 +1,5 @@
 # JavaScript_CursoEmVideo_Tabuada
-Projeto desenvolvido no curso "JavaScript e ECMAScript para Iniciantes" da Curso em Vídeo, orientado pelo professor [Gustavo Guabnabara](https://github.com/gustavoguanabara).
+Projeto desenvolvido no curso "JavaScript e ECMAScript para Iniciantes" da Curso em Vídeo, orientado pelo professor [Gustavo Guanabara](https://github.com/gustavoguanabara).
 
 ![Captura de tela de 2023-06-02 17-46-42](https://github.com/karinoniesko/JavaScript_CursoEmVideo_Tabuada/assets/126200406/8ed15507-50fd-4b97-ae51-b47bc163bccc)
 
